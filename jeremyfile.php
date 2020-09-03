@@ -1,11 +1,2 @@
-<html>
-    <head></head>
-    <body>
-        <h1>Exo GIT</h1>
-        <ul>
-            <li></li>
-            <li></li>
-            <li></li>
-        </ul>
-    </body>
-</html>
+<?php
+echo '<h1>Ceci est le fichier de Jérémy</h1>';
